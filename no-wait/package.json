@@ -1,0 +1,11 @@
+{
+  "name": "no-wait",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "bin": {
+    "no-wait": "theres-more.js"
+  },
+  "license": "ISC"
+}
